@@ -3,7 +3,7 @@ console.log("this is plant mapper")
 // Create a map of the United States of America//
 
 //Initialize the map & set view to our chosen geographical coordinates & a zoom level
-// View of US(active) N America(not part of US => inactive)
+// View of US(active) N America(not part of US is inactive)
 
 var map = L.map('map').setView([37.8, -96], 4);
 
